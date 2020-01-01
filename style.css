@@ -1,0 +1,38 @@
+.blinking{
+    animation:blinkingText 1.8s infinite;
+    font-weight: bold;
+}
+@keyframes blinkingText{
+    0%{     color: #2cda2c;    }
+    50%{    color: #5d9b5d; }
+    79%{    color:transparent;  }
+    99%{    color:transparent;  }
+    100%{   color:#4c9c4c;    }
+}
+.b{
+    background-color: #212121;
+}
+.container .jumbotron {
+    border-radius: 15px ;
+    margin-top: 100px;
+}
+.fontw{
+    font-weight: 700;
+}
+.fa{
+    font-size: 50px;
+   margin-right: 50px;
+   color:#212121;
+}
+.git:hover{
+    color:black;
+  }
+.lin:hover{
+    color: #0e76a8;
+  }
+.ins:hover{
+    color: #E1306C;
+  }
+.twi:hover{
+    color: #00acee ;
+  }
