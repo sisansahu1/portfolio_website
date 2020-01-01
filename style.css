@@ -3,7 +3,7 @@
     font-weight: bold;
 }
 @keyframes blinkingText{
-    0%{     color: #2cda2c;    }
+    0%{     color: #5d9b5d;    }
     50%{    color: #5d9b5d; }
     79%{    color:transparent;  }
     99%{    color:transparent;  }
